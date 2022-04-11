@@ -130,3 +130,6 @@ dmypy.json
 
 # api key
 API_KEY
+
+# config file
+config.js
